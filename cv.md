@@ -58,6 +58,7 @@ For many years I have been creating web pages for friends, acquaintances and sma
 
 LANGUAGES 
 English C2 
+I speak english since I was 7. I use it everyday. I even lived 2 years in Leicester England.
 
 INTERESTS 
 Tarantino movies Motor sports First person shooter games 
