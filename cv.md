@@ -6,12 +6,15 @@ WEB DEVELOPER        Freelancer            2016 - present
 Creating websites in HTML, CSS, JS, PHP, Bootstrap, jQuery. Setting up and modifying Wordpress and Prestashop pages. Using GIMP and Photoshop to create website layouts. 
 
 ORDER MANAGEMENT COORDINATOR        al.to (x-kom group)   April 2019 – present
+
 Ordering products. Confirming clients orders. Close cooperation with product managers, chief executive officer, copywriters, contact center, warehouse staff and suppliers 
  
 SENIOR COPYWRITER        al.to (x-kom group)  June 2016 – March 2019 
+
 Creating product presentation for online shop and auctions. Preparing product specifications. Training new employees. Setting up and management of department wiki help page. Highest employee evaluation score in whole department that employs 15 people. 
  
 PROJECT MANAGER        Pink Parrot Media             November 2015 – January 2016 
+
 Acquiring clients preferences and needs. Managing a team of developers. CMS systems support. Creating Content. Editing websites 
 
 EDUCATION 
