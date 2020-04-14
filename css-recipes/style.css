@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600|Open+Sans:400,600&display=swap');
+
+body {
+    margin: 0;
+    position: relative;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    margin: 5px;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.3rem;
+    margin: 25px 0 5px 0;
+    font-weight: 600;
+}
+
+header h2 {
+    margin: 5px 0;
+}
+
+h3 {
+    color: #4e5fab;
+    margin: 5px;
+}
+
+.container {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+    width: 80%;
+}
+
+
+header {
+    background-color: #4c5eab;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    /* padding: 63 80 48 80; */
+    /* padding: 63 80 48 80; */
+    padding: 63 0 48 0;
+    position: absolute;
+    /* position: relative; */
+    width: 100%;
+}
+
+header h2 {
+    font-size: 1.5rem;
+}
+
+.photo {
+    background-color: #D6D6D6;
+    height: 142px;
+    width: 142px;
+    border-radius: 100%;
+    /* position: relative; */
+    margin-left: 80px;
+    float: left;
+}
+
+.name {
+    position: relative;
+    float: left;
+    /* margin: 0 0 0 29; */
+    margin-left: 29px;
+}
+
+ul {
+    list-style-type: none;
+    position: relative;
+    float: right;
+    margin-right: 60px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li:last-child {
+    margin-bottom: 0;
+}
+
+ul li i {
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    color:rgb(147, 163, 231);
+    transition: all 1s;
+}
+
+main {
+    position: absolute;
+    top: 261px;
+    padding: 0;
+    width: 100%;
+}
+
+main aside {
+    position: absolute;
+    width: 30%;
+    float: left;
+    /* padding-left: 80px; */
+    background-color: #fafafa;
+    /* background-color: #be3636; */
+    /* padding-bottom: 50px; */
+    padding: 0 40 50 80;
+}
+
+.main {
+    position: relative;
+    /* right: -170px; */
+    float: right;
+    padding: 0 50px;
+    /* padding-left: 20px; */
+    /* width: %; */
+}
+
+main h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+main i {
+    background-color: #4c5eab;
+    padding: 13px;
+    color: #fff;
+    border-radius: 100%;
+}
+
+.interests {
+    display: table;
+}
+.circle {
+    position: relative;
+    float: left;
+    padding-bottom: 10px;
+    display: table;
+}
+
+
+.pic {
+    background-color: #4c5eab;
+    border-radius: 100%;
+    padding: 8px;
+    width: 42px;
+    margin: 0 5px;
+}
+
+.pic i {
+    background-color: #fff;
+    color: #4c5eab;
+}
+
+.pic i:hover {
+    color: red;
+    transition: all 1s;
+}
+body > section > main > aside > div > div > p {
+    text-align: center;
+}
+
+.pic:hover {
+    background-color:rgb(147, 163, 231);
+    cursor:pointer;
+    transition: all 1s;
+}
+
+.stronger {
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+footer {
+    position:absolute;
+    background-color: #4c5eab;
+    top: 1150px;
+    width: 100%;
+    color: #fff;
+}
+
+footer p {
+    padding: 20 80;
+}
+
+.projects {
+    
+}
+
+.projects-line {
+    width: 550px;
+    min-width: 550px;
+    display: table;
+}
+
+.project {
+    position:relative;
+    float:left;
+    text-align: center;
+    margin: 10px 0;
+    box-shadow: 0px 0px 129px -56px rgba(0,0,0,0.75);
+}
+
+
+.project:nth-child(2n) {
+    float:right;
+}
+
+.project-img {
+    background-color: rgb(216, 216, 216);
+    width: 250px;
+    height: 180px;
+}
